@@ -8,7 +8,11 @@
 ## Run
 
 ```
-$ USERNAME=<sauce labs usersname> ACCESS_KEY=<sauce labs access key> yarn start
+$ USERNAME=<username> ACCESS_KEY=<access key> yarn start
 ```
 
 Note: you can find your `user name` and `acess key` via https://app.saucelabs.com/user-settings
+
+## Check if it passed!
+
+Head over to https://app.saucelabs.com/dashboard/builds and check the build status!
