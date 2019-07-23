@@ -3,8 +3,7 @@
     "version": "0.0.1",
     "license": "ISC",
     "scripts": {
-        "start": "yarn && yarn test",
-        "test": "node src/test.js"
+        "start": "node src/test.js"
     },
     "dependencies": {
         "debug": "^4.1.1",

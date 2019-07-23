@@ -11,8 +11,8 @@ async function example() {
         'sauce:options': {
             username,
             accessKey,
-            build: 'Onboarding Sample App - NodeJS',
-            name: '1-first-test'
+            build: 'Sauce Labs Training Test - NodeJS',
+            name: 'add-comment'
         }
     }).usingServer('https://@ondemand.saucelabs.com:443/wd/hub').build()
 
